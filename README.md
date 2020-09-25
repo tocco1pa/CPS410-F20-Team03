@@ -7,10 +7,13 @@ Name | Username
 Phil Tocco | Tocco1pa
 Brendan Roman | Roman1bm
 Patrick Hanrahan | Hanra1pj
-Helana Brock | Brock1hj
+Helana Brock | brock1hj
 
+## Key Users
+Nostalgic gamers
 
 ## Key Features
-This will be added at a later date.
+temptext
 
 ## Installation
+temptext
