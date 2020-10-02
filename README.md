@@ -7,7 +7,7 @@ Name | Username
 Phil Tocco | Tocco1pa
 Brendan Roman | Roman1bm
 Patrick Hanrahan | Hanra1pj
-Helana Brock | Brock1hj
+Helana Brock | Helanab
 
 ## Key Users
 Nostalgic gamers
