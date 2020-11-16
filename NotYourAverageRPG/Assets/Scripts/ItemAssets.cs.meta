@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1baa7701b4e79ff4aaeab5da41c899a9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pfItemWorld: {instanceID: 0}
+  - swordSprite: {fileID: 21300000, guid: b2f3327f47464544293b6b9018e1296e, type: 3}
+  - spearSprite: {fileID: 21300000, guid: bf28d1ab5e5c42e4aa2c9b729c09fce3, type: 3}
+  - bowSprite: {fileID: 21300000, guid: d5fa6a095f565c244b5e359a24e37384, type: 3}
+  - arrowSprite: {fileID: 21300000, guid: 358bf6d68c2768b4c996f1622aeb7cb1, type: 3}
+  - potionSprite: {fileID: 21300000, guid: db005d11213e5da47b9769c2e6c56eee, type: 3}
+  - coinSprite: {fileID: 21300000, guid: d2c0dc76eca05bb4eb4f3fc4a37f258d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
