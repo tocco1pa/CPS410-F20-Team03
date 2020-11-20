@@ -1,11 +1,21 @@
-﻿using System;
+/*
+ * Author: Patrick Hanrahan
+ * Based off of Code Monkey's "Simple shop in Unity"
+ * https://www.youtube.com/watch?v=HuXy4XX0hzg
+ */
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+/*
+ * Item class for all items in game,
+ * their properties and methods
+ */
 
 [Serializable]
 public class Item 
 {
+    //Enum list of all items
    public enum ItemType
     {
         Sword,
@@ -19,6 +29,7 @@ public class Item
     public ItemType itemType;
     public int amount;
 
+    // Cost of items for the shop
     public static int GetCost(ItemType itemType)
     {
         switch(itemType)
@@ -33,6 +44,7 @@ public class Item
         }
     }
 
+    // Sprites of each item
     public Sprite GetSprite() 
     {
         switch (itemType) {
@@ -46,6 +58,7 @@ public class Item
         }
     }
 
+    // Boolean that says if an item is stackable or not
     public bool IsStackable() {
         switch (itemType)
         {
